@@ -96,9 +96,6 @@ To deploy the application, you can use platforms like Heroku or Vercel. Follow t
 
 Feel free to open issues or submit pull requests. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
