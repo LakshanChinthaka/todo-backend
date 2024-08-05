@@ -20,6 +20,15 @@ This is a simple web application built using the MERN stack (MongoDB, Express, R
 - **Authentication**: JWT (JSON Web Tokens)
 - **Development Tools**: Nodemon, Axios, bcryptjs, dotenv
 
+## Images
+![image](https://github.com/user-attachments/assets/730f7c84-d757-4a7a-932d-3e3d112160c7)
+
+
+![image](https://github.com/user-attachments/assets/f45baa8f-b384-4288-b742-ea8285968318)
+
+
+![image](https://github.com/user-attachments/assets/d3ad84d2-9929-48a6-8590-a2245c4e9009)
+
 ## Installation
 
 ### Prerequisites
